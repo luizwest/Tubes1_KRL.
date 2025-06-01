@@ -1,0 +1,2 @@
+@echo off
+start cmd /c "python main.py --logic KRL --email=krlbot@email.com --name=KRL --password=krlLogic --team etimo"

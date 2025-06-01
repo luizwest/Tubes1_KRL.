@@ -1,4 +1,3 @@
- =============================================================
  KRLBot - Bot untuk Permainan Diamond Game
  Strategi: Greedy Algorithm with Dynamic Weights
 
@@ -6,9 +5,9 @@
  -----------------------------------------------------------
 Dibuat oleh: KRL Team
  Anggota:
- - Keira Lakeisha
- - Refi Ikhsanti
- - Louis Hutabarat
+ - Keira Lakeisha (123140142)
+ - Refi Ikhsanti (123140126)
+ - Louis Hutabarat (123140052)
  ------------------------------------------------------------
  Deskripsi: Bot ini bertujuan untuk mengumpulkan diamond,
  menghindari atau menabrak musuh, dan kembali ke base
